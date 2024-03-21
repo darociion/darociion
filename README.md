@@ -23,13 +23,13 @@
   📆 Mar 2021 - Present
 </p>
 
-<!--
+<br>
+
 <p align='center'>
-  💻 Back-end development<br>
+  💻 Back-End development<br>
   📍 Oracle ONE Education<br>
   📆 Jan 2024 - Present
 </p>
--->
 
 <br>
 
