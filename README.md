@@ -27,7 +27,7 @@
 
 <p align='center'>
   💻 Back-End development<br>
-  📍 Oracle ONE Education<br>
+  📍 Oracle Next Education<br>
   📆 Jan 2024 - Present
 </p>
 
